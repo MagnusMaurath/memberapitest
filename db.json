@@ -1,0 +1,25 @@
+{
+  "member": [
+    {
+      "id": 1,
+      "first_name": "Manuel",
+      "last_name": "Huber",
+      "age": "16",
+      "email": "manuel@gmail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Andreas",
+      "last_name": "Mayer",
+      "age": "45",
+      "email": "andreas@web.de"
+    },
+    {
+      "id": 3,
+      "first_name": "Peter",
+      "last_name": "Maurath",
+      "age": "33",
+      "email": "peter@gmx.de"
+    }
+  ]
+}
